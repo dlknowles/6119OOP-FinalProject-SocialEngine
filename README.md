@@ -1,4 +1,6 @@
-6119OOP-FinalProject-SocialEngine
+> Archived project. Kept for historical purposes.
+
+# 6119OOP-FinalProject-SocialEngine
 =================================
 
 
